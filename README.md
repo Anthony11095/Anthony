@@ -11,12 +11,10 @@
   - [Active Directory Enable, Unlock, Reset] https://github.com/Anthony11095/configure_ad_passwords.git
   - [Network Security Groups (NSGs) and Inspecting Network Protocols] https://github.com/Anthony11095/azure-network-protocols.git
   - [Vpn Setup and Usage] https://github.com/Anthony11095/Vpn_setup_and_usage.git
+    
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  - My LinkedIn www.linkedin.com/in/anthony-hamilton-a33748313
+  
 
-[twitter]: https://twitter.com/Anthony
-[instagram]: https://www.instagram.com/Anthony
-[linkedin]: https://linkedin.com/in/Anthony
+
