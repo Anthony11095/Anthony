@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/AnthonyHamilton">IT Professional</a>☺</h1>
+<h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/anthony-hamilton-a33748313">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
