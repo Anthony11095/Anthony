@@ -3,14 +3,14 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>-
-  - [osTicket: Prerequisites and Installation] https://github.com/Anthony11095/osticket-prereqs.git
-  - [osTicket: Post-Installation Configuration] https://github.com/Anthony11095/post-install-config.git
+  - [osTicket: Prerequisites and Installation]https://github.com/Anthony11095/osticket-prereqs.git
+  - [osTicket: Post-Installation Configuration]https://github.com/Anthony11095/post-install-config.git
 - <b>Microsoft Azure</b>
-  - [Creating Our First Resource] https://github.com/Anthony11095/Creating_our_first_resource.git
-  - [Configuring On-premises Active Directory within Azure VMs] https://github.com/Anthony11095/configure-ad.git
-  - [Active Directory Enable, Unlock, Reset] https://github.com/Anthony11095/configure_ad_passwords.git
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols] https://github.com/Anthony11095/azure-network-protocols.git
-  - [Vpn Setup and Usage] https://github.com/Anthony11095/Vpn_setup_and_usage.git
+  - [Creating Our First Resource]https://github.com/Anthony11095/Creating_our_first_resource.git
+  - [Configuring On-premises Active Directory within Azure VMs]https://github.com/Anthony11095/configure-ad.git
+  - [Active Directory Enable, Unlock, Reset]https://github.com/Anthony11095/configure_ad_passwords.git
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]https://github.com/Anthony11095/azure-network-protocols.git
+  - [Vpn Setup and Usage]https://github.com/Anthony11095/Vpn_setup_and_usage.git
     
 <h2>🤳Connect with me:</h2>
 
