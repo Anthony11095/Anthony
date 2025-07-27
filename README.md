@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Our First Resource]https://github.com/Anthony11095/Creating_our_first_resource.git
   - https://github.com/Anthony11095/configure_ad.git
-  - [Configuring On-premises Active Directory within Azure VMs]https://github.com/Anthony11095/configure-ad.git
+  - [Configuring On-premises Active Directory within Azure VMs]https://github.com/Anthony11095/configure_ad.git
   - [Active Directory Enable, Unlock, Reset]https://github.com/Anthony11095/configure_ad_passwords.git
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]https://github.com/Anthony11095/azure-network-protocols.git
   - [Vpn Setup and Usage]https://github.com/Anthony11095/Vpn_setup_and_usage.git
